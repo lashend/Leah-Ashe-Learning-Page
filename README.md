@@ -8,8 +8,12 @@ Hmmm. Now I'll try to make a new fork. Or branch. Or what is this called?
 <BR>
 <BR><BR>
 And I'll do that again. <BR>
+<BR>
+Oops. I wanted it to be a numbered list. How do I do that? <OL>
+<OL>
 <LI>Make some changes.</LI>
 <LI>Preview Changes.</LI>
 <LI>Create pull request.</LI>
 <LI>Return to repo base page. View pull request. Look at proposed changes.</LI>
 <LI>Accept merge and make comment on why in same place.</LI>
+</OL>
